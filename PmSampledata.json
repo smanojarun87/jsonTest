@@ -1,0 +1,1053 @@
+{
+    "business": [
+    {
+        "createdById": "2959561127",
+        "regionalAddress2": "India",
+        "localAddress2": "",
+        "location": {
+            "srid": 4326,
+            "x": 78.675026,
+            "y": 10.803976
+        },
+        "createdByUserName": "pipeline@yopmail.com",
+        "latitude": 10.803976,
+        "corporateCurrency": "USD",
+        "receivesAdminInfoEmails": true,
+        "lastModifiedById": "2959561127",
+        "localCity": "Tiruchirappalli",
+        "localState": "TN",
+        "lastModifiedDate": 1621537477,
+        "commonName1": "Pipe Line",
+        "socialMedia": {},
+        "receivesPromoEmails": true,
+        "identityProvider": "firebase-test",
+        "longitude": 78.675026,
+        "accountStatus": 1,
+        "logo": {
+            "filename": "default.png",
+            "height": 250,
+            "width": 250,
+            "contentUrl": "https://primo-img.s3.amazonaws.com/P.png"
+        },
+        "id": "1949451330",
+        "language": "en",
+        "regionalAddress1": "",
+        "localZipCode": "620001",
+        "localAddress1": "2nd Main Road",
+        "onboardingComplete": true,
+        "onlineOnly": false,
+        "primaryContactId": "2959561127",
+        "createdDate": 1621537477,
+        "handle": "@pipeline"
+    },
+    {
+        "businessUrl": "costco.com",
+        "createdById": "2329408330",
+        "regionalAddress2": "United States",
+        "localAddress2": "",
+        "location": {
+            "srid": 4326,
+            "x": -122.181862,
+            "y": 47.680626
+        },
+        "createdByUserName": "costco@yopmail.com",
+        "latitude": 47.680626,
+        "corporateCurrency": "USD",
+        "receivesAdminInfoEmails": true,
+        "lastModifiedById": "2329408330",
+        "localCity": "Kirkland",
+        "localState": "WA",
+        "lastModifiedDate": 1605032375,
+        "commonName1": "Costco",
+        "socialMedia": {},
+        "receivesPromoEmails": true,
+        "identityProvider": "firebase-test",
+        "longitude": -122.181861,
+        "accountStatus": 1,
+        "logo": {
+            "filename": "default.png",
+            "height": 250,
+            "width": 250,
+            "contentUrl": "https://primo-img.s3.amazonaws.com/C.png"
+        },
+        "id": "1857350380",
+        "language": "en",
+        "regionalAddress1": "Kirkland Warehouse",
+        "localZipCode": "98033",
+        "localAddress1": "8629 120th Ave NE",
+        "onboardingComplete": true,
+        "onlineOnly": false,
+        "primaryContactId": "2329408330",
+        "createdDate": 1605032375,
+        "handle": "@costco"
+},
+    {
+        "businessUrl": "behaviourtest01.com",
+        "createdById": "2506339674",
+        "createdByUserName": "behaviourtest01@yopmail.com",
+        "corporateCurrency": "USD",
+        "receivesAdminInfoEmails": true,
+        "lastModifiedById": "2506339674",
+        "contact2": {
+            "contactValue": ""
+        },
+        "emailAddress1": "behaviourtest01@yopmail.com",
+        "lastModifiedDate": 1624996219,
+        "commonName1": "BehaviourTest01",
+        "contact3": {
+            "contactValue": ""
+        },
+        "socialMedia": {},
+        "receivesPromoEmails": true,
+        "identityProvider": "firebase-test",
+        "accountStatus": 1,
+        "logo": {
+            "filename": "default.png",
+            "height": 250,
+            "width": 250,
+            "contentUrl": "https://primo-img.s3.amazonaws.com/B.png"
+        },
+        "id": "1334874158",
+        "language": "en",
+        "onboardingComplete": true,
+        "onlineOnly": true,
+        "primaryContactId": "2506339674",
+        "contact1": {
+            "contactType": 1,
+            "contactValue": "9626364767"
+        },
+        "createdDate": 1624996219,
+        "handle": "@behaviortest01"
+    },
+    {
+        "businessUrl": "test101.com",
+        "createdById": "2882280142",
+        "createdByUserName": "test101@yopmail.com",
+        "corporateCurrency": "USD",
+        "receivesAdminInfoEmails": true,
+        "lastModifiedById": "2882280142",
+        "emailAddress1": "test101@yopmail.com",
+        "businessCategories": [
+            "Arts, crafts, and collectibles -> Art and craft supplies"
+        ],
+        "lastModifiedDate": 1628436119,
+        "commonName1": "test101",
+        "receivesPromoEmails": true,
+        "identityProvider": "firebase-test",
+        "accountStatus": 1,
+        "logo": {
+            "filename": "default.png",
+            "height": 250,
+            "width": 250,
+            "contentUrl": "https://primo-img.s3.amazonaws.com/T.png"
+        },
+        "id": "1866264359",
+        "language": "en",
+        "onboardingComplete": true,
+        "onlineOnly": true,
+        "primaryContactId": "2882280142",
+        "createdDate": 1628436119,
+        "handle": "test101"
+    }],
+    "loops": [],
+    "messages": [ 
+        {
+            "intx": {
+                "startDate": 1610886062,
+                "redeemed": false,
+                "sources": [
+                    {
+                        "approvalType": "Open",
+                        "orgDescription": "The General loop is an open loop created by PrimoLoop as a way for members to be able to easily find you.",
+                        "deletable": false,
+                        "_description": "General Loop is where most deals are published.  You may join, leave or rejoin anytime. Personal details are not shared.",
+                        "active": true,
+                        "category": "default",
+                        "createdDate": 1605032376,
+                        "loopStatus": 1,
+                        "logo": {
+                            "height": 250,
+                            "filename": "default.png",
+                            "contentUrl": "https://primo-img.s3.amazonaws.com/C.png",
+                            "width": 250
+                        },
+                        "name": "General",
+                        "dynamic": false,
+                        "loopType": "default",
+                        "createdBy": "System",
+                        "tenantId": "1857350380",
+                        "id": "8294051510"
+                    }
+                ],
+                "published": true,
+                "location": {
+                    "srid": 4326,
+                    "x": -122.258671,
+                    "y": 47.66891
+                },
+                "intxVersion": 1,
+                "deleted": false,
+                "isDirectMessage": 0,
+                "categories": [
+                    {
+                        "categoryIndex": 16,
+                        "categoryName": "Real Estate"
+                    },
+                    {
+                        "categoryIndex": 12,
+                        "categoryName": "Grocery"
+                    }
+                ],
+                "latitude": "47.66891",
+                "url": "https://www.dropbox.com/s/46eb0azm8ya7r8x/Test%20document%20about%20primo.docx?dl=0",
+                "postDate": 1610886076,
+                "uploadType": 1,
+                "metrics": {
+                    "favorites": 0,
+                    "views": 10
+                },
+                "body": "Costco event description 07",
+                "favorited": false,
+                "handle": "@costco",
+                "header": "Costco Event 07",
+                "logo": {
+                    "filename": "default.png",
+                    "height": 250,
+                    "width": 250,
+                    "contentUrl": "https://primo-img.s3.amazonaws.com/C.png"
+                },
+                "displayMedia": {
+                    "contentUrl": "https://primo-img.s3.amazonaws.com/event.png",
+                    "height": 1080,
+                    "width": 1260
+                },
+                "longitude": "-122.258671",
+                "content": {
+                    "location": {
+                        "address": {
+                            "streetAddress": "6405 Windermere Rd",
+                            "country": "United States",
+                            "postalCode": "98105",
+                            "region": "WA",
+                            "locality": "Seattle"
+                        }
+                    },
+                    "isAccessibleForFree": 0,
+                    "customLinks": [
+                        {
+                            "field": "WordDoc",
+                            "value": "https://www.dropbox.com/s/46eb0azm8ya7r8x/Test%20document%20about%20primo.docx?dl=0"
+                        },
+                        {
+                            "field": "PDFDoc",
+                            "value": "https://www.dropbox.com/s/sbkk58zodmn3kk5/primo%20loop%20logo%20theme.pdf?dl=0"
+                        },
+                        {
+                            "field": "TestWord Doc",
+                            "value": "https://drive.google.com/file/d/10DhVRoQCw1KXEXLDr6q19gwk0vpIBjf8/view?usp=sharing"
+                        },
+                        {
+                            "field": "TestPDF Document for you to view",
+                            "value": "https://drive.google.com/file/d/1K_CYrSf__YUZHFUEK_V2DdKtmTh2dxQs/view?usp=sharing"
+                        },
+                        {
+                            "field": "4803 Mendocino Terrace, Fremont, CA 94555",
+                            "value": "https://goo.gl/maps/cCN7hc6J1bV8SJTT7"
+                        }
+                    ],
+                    "eventPrice": "79",
+                    "doorTime": 1610886062
+                },
+                "intxType": "Events",
+                "redemptionDate": null,
+                "tenantId": "1857350380",
+                "orgName": "Costco",
+                "loops": [
+                    "8294051510"
+                ],
+                "alerted": false,
+                "id": "4112392024"
+            },
+            "org": {
+                "latitude": 47.680626,
+                "businessUrl": "costco.com",
+                "onlineOnly": false,
+                "language": "en",
+                "regionalAddress2": "United States",
+                "identityProvider": "firebase-test",
+                "regionalAddress1": "Kirkland Warehouse",
+                "accountStatus": 1,
+                "localZipCode": "98033",
+                "localCity": "Kirkland",
+                "commonName1": "Costco",
+                "lastModifiedById": "2329408330",
+                "logo": {
+                    "filename": "default.png",
+                    "height": 250,
+                    "width": 250,
+                    "contentUrl": "https://primo-img.s3.amazonaws.com/C.png"
+                },
+                "id": "1857350380",
+                "receivesAdminInfoEmails": true,
+                "createdById": "2329408330",
+                "longitude": -122.181861,
+                "lastModifiedDate": 1605032375,
+                "handle": "@costco",
+                "socialMedia": {},
+                "localState": "WA",
+                "receivesPromoEmails": true,
+                "localAddress2": "",
+                "localAddress1": "8629 120th Ave NE",
+                "primaryContactId": "2329408330",
+                "createdByUserName": "costco@yopmail.com",
+                "createdDate": 1605032375,
+                "onboardingComplete": true,
+                "corporateCurrency": "USD",
+                "location": {
+                    "srid": 4326,
+                    "x": -122.181862,
+                    "y": 47.680626
+                }
+            }
+        },{
+        "intx": {
+            "startDate": 1611750060,
+            "redeemed": false,
+            "sources": [
+                {
+                    "approvalType": "Location Based",
+                    "orgDescription": "The Nearby loop is a location-based loop created by PrimoLoop. Any member physically located within a predefined distance from your business will be able to see messages you published to this loop.",
+                    "deletable": false,
+                    "_description": "Nearby Loop is a special loop where your messages will be discoverable directly by members of the community based on their location.",
+                    "active": true,
+                    "category": "default",
+                    "createdDate": 1605032376,
+                    "loopStatus": 1,
+                    "logo": {
+                        "height": 250,
+                        "filename": "default.png",
+                        "contentUrl": "https://primo-img.s3.amazonaws.com/C.png",
+                        "width": 250
+                    },
+                    "name": "Nearby",
+                    "dynamic": true,
+                    "loopType": "default",
+                    "createdBy": "System",
+                    "tenantId": "1857350380",
+                    "id": "8834235558"
+                }
+            ],
+            "published": true,
+            "location": {
+                "srid": 4326,
+                "x": -122.084099,
+                "y": 47.56845
+            },
+            "intxCount": 50,
+            "intxVersion": 2,
+            "deleted": false,
+            "isDirectMessage": false,
+            "categories": [
+                {
+                    "categoryIndex": 8,
+                    "categoryName": "Travel and Lodging"
+                },
+                {
+                    "categoryIndex": 15,
+                    "categoryName": "Health"
+                }
+            ],
+            "latitude": 47.56845,
+            "url": "https://www.target.com/c/lamps-lighting-home-decor/sale/-/N-5xttmZ5tdv0",
+            "postDate": 1624290184,
+            "uploadType": 1,
+            "metrics": {
+                "favorites": 0,
+                "views": 6
+            },
+            "favorited": false,
+            "body": "Costco event description 50",
+            "handle": "@costco",
+            "header": "Costco Event 50",
+            "logo": {
+                "filename": "default.png",
+                "height": 250,
+                "width": 250,
+                "contentUrl": "https://primo-img.s3.amazonaws.com/C.png"
+            },
+            "displayMedia": {
+                "contentUrl": "https://primo-img.s3.amazonaws.com/event.png",
+                "height": 1080,
+                "width": 1260
+            },
+            "longitude": -122.084099,
+            "content": {
+                "duration": null,
+                "location": {
+                    "address": {
+                        "streetAddress": "18884 SE 42nd St",
+                        "country": "United States",
+                        "postalCode": "98027",
+                        "region": "WA",
+                        "locality": "Issaquah"
+                    }
+                },
+                "isAccessibleForFree": 0,
+                "customLinks": [
+                    {
+                        "field": "Target Lighting on Sale",
+                        "value": "https://www.target.com/c/lamps-lighting-home-decor/sale/-/N-5xttmZ5tdv0"
+                    },
+                    {
+                        "field": "Microsoft site",
+                        "value": "https://www.microsoft.com/en-us/microsoft-365?rtc=1"
+                    },
+                    {
+                        "field": "1000 1st Ave in Seattle",
+                        "value": "https://www.themlsonline.com/seattle-real-estate/listings/property/1695613/1000-1st-Ave-Seattle-WA-98104"
+                    },
+                    {
+                        "field": "Zillow 4370 164th Way SE, Bellevue, WA 98006",
+                        "value": "https://www.zillow.com/homedetails/4370-164th-Way-SE-Bellevue-WA-98006/67682020_zpid/"
+                    },
+                    {
+                        "field": "Paradise Inn Rainier National Forest",
+                        "value": "https://goo.gl/maps/tkCcdsqnyGpfajhG7"
+                    }
+                ],
+                "eventPrice": "458",
+                "doorTime": 1624376520
+            },
+            "intxType": "Events",
+            "redemptionDate": null,
+            "reach": 0,
+            "endDate": 1624635720,
+            "tenantId": "1857350380",
+            "orgName": "Costco",
+            "recipients": [
+                {}
+            ],
+            "loops": [
+                "8834235558"
+            ],
+            "alerted": false,
+            "id": "4701902704"
+        },
+        "org": {
+            "latitude": 47.680626,
+            "businessUrl": "costco.com",
+            "onlineOnly": false,
+            "language": "en",
+            "regionalAddress2": "United States",
+            "identityProvider": "firebase-test",
+            "regionalAddress1": "Kirkland Warehouse",
+            "accountStatus": 1,
+            "localZipCode": "98033",
+            "localCity": "Kirkland",
+            "commonName1": "Costco",
+            "lastModifiedById": "2329408330",
+            "logo": {
+                "filename": "default.png",
+                "height": 250,
+                "width": 250,
+                "contentUrl": "https://primo-img.s3.amazonaws.com/C.png"
+            },
+            "id": "1857350380",
+            "receivesAdminInfoEmails": true,
+            "createdById": "2329408330",
+            "longitude": -122.181861,
+            "lastModifiedDate": 1605032375,
+            "handle": "@costco",
+            "socialMedia": {},
+            "localState": "WA",
+            "receivesPromoEmails": true,
+            "localAddress2": "",
+            "localAddress1": "8629 120th Ave NE",
+            "primaryContactId": "2329408330",
+            "createdByUserName": "costco@yopmail.com",
+            "createdDate": 1605032375,
+            "onboardingComplete": true,
+            "corporateCurrency": "USD",
+            "location": {
+                "srid": 4326,
+                "x": -122.181862,
+                "y": 47.680626
+            }
+        }
+    },{
+        "intx": {
+            "redeemed": false,
+            "sources": [],
+            "published": true,
+            "location": {
+                "srid": 4326,
+                "x": -122.181861,
+                "y": 47.680626
+            },
+            "intxCount": 54,
+            "intxVersion": 1,
+            "deleted": false,
+            "isDirectMessage": true,
+            "categories": [],
+            "latitude": 47.680626,
+            "postDate": 1624635004,
+            "uploadType": 1,
+            "metrics": {
+                "favorites": 0,
+                "views": 0
+            },
+            "favorited": false,
+            "body": "Hello ",
+            "handle": "@costco",
+            "header": "Welcome",
+            "logo": {
+                "filename": "default.png",
+                "height": 250,
+                "width": 250,
+                "contentUrl": "https://primo-img.s3.amazonaws.com/C.png"
+            },
+            "displayMedia": {
+                "contentUrl": "https://primo-img.s3.amazonaws.com/post.png",
+                "height": 1080,
+                "width": 1260
+            },
+            "longitude": -122.181861,
+            "content": {
+                "product": null,
+                "customLinks": null
+            },
+            "intxType": "Notes",
+            "redemptionDate": null,
+            "reach": 1,
+            "endDate": 1624721340,
+            "tenantId": "1857350380",
+            "orgName": "Costco",
+            "recipients": [
+                {
+                    "city": "Dindigul",
+                    "photo": {
+                        "filename": "",
+                        "width": 0,
+                        "height": 0,
+                        "contentUrl": ""
+                    },
+                    "state": "TN",
+                    "zipCode": "91101",
+                    "country": null,
+                    "lastName": "",
+                    "firstName": "Arun L",
+                    "id": "3993843117",
+                    "inboxId": "8049570865"
+                }
+            ],
+            "loops": [
+                "8049570865"
+            ],
+            "alerted": false,
+            "id": "4027021344"
+        },
+        "org": {
+            "latitude": 47.680626,
+            "businessUrl": "costco.com",
+            "onlineOnly": false,
+            "language": "en",
+            "regionalAddress2": "United States",
+            "identityProvider": "firebase-test",
+            "regionalAddress1": "Kirkland Warehouse",
+            "accountStatus": 1,
+            "localZipCode": "98033",
+            "localCity": "Kirkland",
+            "commonName1": "Costco",
+            "lastModifiedById": "2329408330",
+            "logo": {
+                "filename": "default.png",
+                "height": 250,
+                "width": 250,
+                "contentUrl": "https://primo-img.s3.amazonaws.com/C.png"
+            },
+            "id": "1857350380",
+            "receivesAdminInfoEmails": true,
+            "createdById": "2329408330",
+            "longitude": -122.181861,
+            "lastModifiedDate": 1605032375,
+            "handle": "@costco",
+            "socialMedia": {},
+            "localState": "WA",
+            "receivesPromoEmails": true,
+            "localAddress2": "",
+            "localAddress1": "8629 120th Ave NE",
+            "primaryContactId": "2329408330",
+            "createdByUserName": "costco@yopmail.com",
+            "createdDate": 1605032375,
+            "onboardingComplete": true,
+            "corporateCurrency": "USD",
+            "location": {
+                "srid": 4326,
+                "x": -122.181862,
+                "y": 47.680626
+            }
+        }
+    },
+    {
+        "intx": {
+            "redeemed": false,
+            "sources": [],
+            "published": true,
+            "location": {
+                "srid": 4326,
+                "x": -122.181861,
+                "y": 47.680626
+            },
+            "intxCount": 54,
+            "intxVersion": 1,
+            "deleted": false,
+            "isDirectMessage": true,
+            "categories": [],
+            "latitude": 47.680626,
+            "postDate": 1622487840,
+            "uploadType": 1,
+            "metrics": {
+                "favorites": 0,
+                "views": 1
+            },
+            "body": "Member post 2 ",
+            "favorited": false,
+            "handle": "@costco",
+            "header": "member post 2",
+            "logo": {
+                "filename": "default.png",
+                "height": 250,
+                "width": 250,
+                "contentUrl": "https://primo-img.s3.amazonaws.com/C.png"
+            },
+            "displayMedia": {
+                "contentUrl": "https://primo-img.s3.amazonaws.com/post.png",
+                "height": 1080,
+                "width": 1260
+            },
+            "content": {
+                "product": null,
+                "customLinks": null
+            },
+            "longitude": -122.181861,
+            "intxType": "Notes",
+            "redemptionDate": null,
+            "reach": 5,
+            "tenantId": "1857350380",
+            "orgName": "Costco",
+            "recipients": [
+                {
+                    "city": null,
+                    "photo": null,
+                    "state": null,
+                    "zipCode": null,
+                    "country": null,
+                    "lastName": null,
+                    "firstName": null,
+                    "id": "3723228717",
+                    "inboxId": "8418370042"
+                },
+                {
+                    "city": "Issaquah",
+                    "photo": {
+                        "filename": "A2AED370-8E14-4815-9CE3-DAF41ACEEC96-2806-0000012E3EADD73B.png",
+                        "width": 828,
+                        "height": 826,
+                        "contentUrl": "https://firebasestorage.googleapis.com/v0/b/primoloop-devtest.appspot.com/o/3198808777%2FA2AED370-8E14-4815-9CE3-DAF41ACEEC96-2806-0000012E3EADD73B.png?alt=media&token=ac7b057a-d0a3-4136-a85d-b7e2261373dd"
+                    },
+                    "state": "WA",
+                    "zipCode": "98027",
+                    "country": null,
+                    "lastName": "",
+                    "firstName": "Will",
+                    "id": "3198808777",
+                    "inboxId": "8201147920"
+                },
+                {
+                    "city": "Mercer Island",
+                    "photo": {
+                        "filename": "",
+                        "width": 0,
+                        "height": 0,
+                        "contentUrl": ""
+                    },
+                    "state": "WA",
+                    "zipCode": "98040",
+                    "country": null,
+                    "lastName": "",
+                    "firstName": "Dinesh N",
+                    "id": "3409923401",
+                    "inboxId": "8304962093"
+                },
+                {
+                    "city": null,
+                    "photo": null,
+                    "state": null,
+                    "zipCode": null,
+                    "country": null,
+                    "lastName": null,
+                    "firstName": null,
+                    "id": "3759279863",
+                    "inboxId": "8038705162"
+                },
+                {
+                    "city": null,
+                    "photo": null,
+                    "state": null,
+                    "zipCode": null,
+                    "country": null,
+                    "lastName": null,
+                    "firstName": null,
+                    "id": "3921272554",
+                    "inboxId": "8587666471"
+                }
+            ],
+            "loops": [
+                "8587666471",
+                "8038705162",
+                "8304962093",
+                "8201147920",
+                "8418370042"
+            ],
+            "alerted": false,
+            "id": "4673313755"
+        },
+        "org": {
+            "latitude": 47.680626,
+            "businessUrl": "costco.com",
+            "onlineOnly": false,
+            "language": "en",
+            "regionalAddress2": "United States",
+            "identityProvider": "firebase-test",
+            "regionalAddress1": "Kirkland Warehouse",
+            "accountStatus": 1,
+            "localZipCode": "98033",
+            "localCity": "Kirkland",
+            "commonName1": "Costco",
+            "lastModifiedById": "2329408330",
+            "logo": {
+                "filename": "default.png",
+                "height": 250,
+                "width": 250,
+                "contentUrl": "https://primo-img.s3.amazonaws.com/C.png"
+            },
+            "id": "1857350380",
+            "receivesAdminInfoEmails": true,
+            "createdById": "2329408330",
+            "longitude": -122.181861,
+            "lastModifiedDate": 1605032375,
+            "handle": "@costco",
+            "socialMedia": {},
+            "localState": "WA",
+            "receivesPromoEmails": true,
+            "localAddress2": "",
+            "localAddress1": "8629 120th Ave NE",
+            "primaryContactId": "2329408330",
+            "createdByUserName": "costco@yopmail.com",
+            "createdDate": 1605032375,
+            "onboardingComplete": true,
+            "corporateCurrency": "USD",
+            "location": {
+                "srid": 4326,
+                "x": -122.181862,
+                "y": 47.680626
+            }
+        }
+    },
+    {
+        "intx": {
+            "redeemed": false,
+            "sources": [],
+            "published": true,
+            "location": {
+                "srid": 4326,
+                "x": -122.181861,
+                "y": 47.680626
+            },
+            "intxCount": 54,
+            "intxVersion": 1,
+            "deleted": false,
+            "isDirectMessage": true,
+            "categories": [],
+            "latitude": 47.680626,
+            "postDate": 1621364160,
+            "uploadType": 1,
+            "metrics": {
+                "favorites": 0,
+                "views": 1
+            },
+            "body": "Post for member",
+            "favorited": false,
+            "handle": "@costco",
+            "header": "Member post",
+            "logo": {
+                "filename": "default.png",
+                "height": 250,
+                "width": 250,
+                "contentUrl": "https://primo-img.s3.amazonaws.com/C.png"
+            },
+            "displayMedia": {
+                "contentUrl": "https://primo-img.s3.amazonaws.com/post.png",
+                "height": 1080,
+                "width": 1260
+            },
+            "content": {
+                "product": null,
+                "customLinks": null
+            },
+            "longitude": -122.181861,
+            "intxType": "Notes",
+            "redemptionDate": null,
+            "reach": 5,
+            "tenantId": "1857350380",
+            "orgName": "Costco",
+            "recipients": [
+                {
+                    "city": null,
+                    "photo": null,
+                    "state": null,
+                    "zipCode": null,
+                    "country": null,
+                    "lastName": null,
+                    "firstName": null,
+                    "id": "3921272554",
+                    "inboxId": "8587666471"
+                },
+                {
+                    "city": "Mercer Island",
+                    "photo": {
+                        "filename": "",
+                        "width": 0,
+                        "height": 0,
+                        "contentUrl": ""
+                    },
+                    "state": "WA",
+                    "zipCode": "98040",
+                    "country": null,
+                    "lastName": "",
+                    "firstName": "Dinesh N",
+                    "id": "3409923401",
+                    "inboxId": "8304962093"
+                },
+                {
+                    "city": "Issaquah",
+                    "photo": {
+                        "filename": "A2AED370-8E14-4815-9CE3-DAF41ACEEC96-2806-0000012E3EADD73B.png",
+                        "width": 828,
+                        "height": 826,
+                        "contentUrl": "https://firebasestorage.googleapis.com/v0/b/primoloop-devtest.appspot.com/o/3198808777%2FA2AED370-8E14-4815-9CE3-DAF41ACEEC96-2806-0000012E3EADD73B.png?alt=media&token=ac7b057a-d0a3-4136-a85d-b7e2261373dd"
+                    },
+                    "state": "WA",
+                    "zipCode": "98027",
+                    "country": null,
+                    "lastName": "",
+                    "firstName": "Will",
+                    "id": "3198808777",
+                    "inboxId": "8201147920"
+                },
+                {
+                    "city": "Seattle",
+                    "photo": {
+                        "filename": "BDDC80B5-8283-48C0-A75C-8C0A2F7A1447-96651-000013CEC0BD6EC6.png",
+                        "width": 1048,
+                        "height": 1114,
+                        "contentUrl": "https://firebasestorage.googleapis.com/v0/b/primoloop-devtest.appspot.com/o/3401730241%2FBDDC80B5-8283-48C0-A75C-8C0A2F7A1447-96651-000013CEC0BD6EC6.png?alt=media&token=5618b0df-4c21-4f34-84dc-83a534fe7057"
+                    },
+                    "state": "WA",
+                    "zipCode": "98104",
+                    "country": null,
+                    "lastName": "",
+                    "firstName": "Muthu ",
+                    "id": "3401730241",
+                    "inboxId": "8063324226"
+                },
+                {
+                    "city": null,
+                    "photo": null,
+                    "state": null,
+                    "zipCode": null,
+                    "country": null,
+                    "lastName": null,
+                    "firstName": null,
+                    "id": "3759279863",
+                    "inboxId": "8038705162"
+                }
+            ],
+            "loops": [
+                "8038705162",
+                "8063324226",
+                "8201147920",
+                "8304962093",
+                "8587666471"
+            ],
+            "alerted": false,
+            "id": "4502386450"
+        },
+        "org": {
+            "latitude": 47.680626,
+            "businessUrl": "costco.com",
+            "onlineOnly": false,
+            "language": "en",
+            "regionalAddress2": "United States",
+            "identityProvider": "firebase-test",
+            "regionalAddress1": "Kirkland Warehouse",
+            "accountStatus": 1,
+            "localZipCode": "98033",
+            "localCity": "Kirkland",
+            "commonName1": "Costco",
+            "lastModifiedById": "2329408330",
+            "logo": {
+                "filename": "default.png",
+                "height": 250,
+                "width": 250,
+                "contentUrl": "https://primo-img.s3.amazonaws.com/C.png"
+            },
+            "id": "1857350380",
+            "receivesAdminInfoEmails": true,
+            "createdById": "2329408330",
+            "longitude": -122.181861,
+            "lastModifiedDate": 1605032375,
+            "handle": "@costco",
+            "socialMedia": {},
+            "localState": "WA",
+            "receivesPromoEmails": true,
+            "localAddress2": "",
+            "localAddress1": "8629 120th Ave NE",
+            "primaryContactId": "2329408330",
+            "createdByUserName": "costco@yopmail.com",
+            "createdDate": 1605032375,
+            "onboardingComplete": true,
+            "corporateCurrency": "USD",
+            "location": {
+                "srid": 4326,
+                "x": -122.181862,
+                "y": 47.680626
+            }
+        }
+    },
+    {
+        "intx": {
+            "redeemed": false,
+            "sources": [],
+            "published": true,
+            "location": {
+                "srid": 4326,
+                "x": -122.181861,
+                "y": 47.680626
+            },
+            "intxCount": 54,
+            "intxVersion": 1,
+            "deleted": true,
+            "isDirectMessage": true,
+            "categories": [],
+            "latitude": 47.680626,
+            "postDate": 1616581472,
+            "uploadType": 1,
+            "metrics": {
+                "favorites": 0,
+                "views": 0
+            },
+            "body": "Check direct mesage",
+            "favorited": false,
+            "handle": "@costco",
+            "header": "Direct message Tst",
+            "logo": {
+                "filename": "default.png",
+                "height": 250,
+                "width": 250,
+                "contentUrl": "https://primo-img.s3.amazonaws.com/C.png"
+            },
+            "displayMedia": {
+                "contentUrl": "https://primo-img.s3.amazonaws.com/post.png",
+                "height": 1080,
+                "width": 1260
+            },
+            "content": {
+                "product": null,
+                "customLinks": null
+            },
+            "longitude": -122.181861,
+            "intxType": "Notes",
+            "redemptionDate": null,
+            "reach": 2,
+            "tenantId": "1857350380",
+            "orgName": "Costco",
+            "recipients": [
+                {
+                    "city": null,
+                    "photo": null,
+                    "state": null,
+                    "zipCode": null,
+                    "country": null,
+                    "lastName": null,
+                    "firstName": null,
+                    "id": "3921272554",
+                    "inboxId": "8587666471"
+                },
+                {
+                    "city": "Issaquah",
+                    "photo": {
+                        "filename": "A2AED370-8E14-4815-9CE3-DAF41ACEEC96-2806-0000012E3EADD73B.png",
+                        "width": 828,
+                        "height": 826,
+                        "contentUrl": "https://firebasestorage.googleapis.com/v0/b/primoloop-devtest.appspot.com/o/3198808777%2FA2AED370-8E14-4815-9CE3-DAF41ACEEC96-2806-0000012E3EADD73B.png?alt=media&token=ac7b057a-d0a3-4136-a85d-b7e2261373dd"
+                    },
+                    "state": "WA",
+                    "zipCode": "98027",
+                    "country": null,
+                    "lastName": "",
+                    "firstName": "Will",
+                    "id": "3198808777",
+                    "inboxId": "8201147920"
+                }
+            ],
+            "loops": [
+                "8201147920",
+                "8587666471"
+            ],
+            "alerted": false,
+            "id": "4755645354"
+        },
+        "org": {
+            "latitude": 47.680626,
+            "businessUrl": "costco.com",
+            "onlineOnly": false,
+            "language": "en",
+            "regionalAddress2": "United States",
+            "identityProvider": "firebase-test",
+            "regionalAddress1": "Kirkland Warehouse",
+            "accountStatus": 1,
+            "localZipCode": "98033",
+            "localCity": "Kirkland",
+            "commonName1": "Costco",
+            "lastModifiedById": "2329408330",
+            "logo": {
+                "filename": "default.png",
+                "height": 250,
+                "width": 250,
+                "contentUrl": "https://primo-img.s3.amazonaws.com/C.png"
+            },
+            "id": "1857350380",
+            "receivesAdminInfoEmails": true,
+            "createdById": "2329408330",
+            "longitude": -122.181861,
+            "lastModifiedDate": 1605032375,
+            "handle": "@costco",
+            "socialMedia": {},
+            "localState": "WA",
+            "receivesPromoEmails": true,
+            "localAddress2": "",
+            "localAddress1": "8629 120th Ave NE",
+            "primaryContactId": "2329408330",
+            "createdByUserName": "costco@yopmail.com",
+            "createdDate": 1605032375,
+            "onboardingComplete": true,
+            "corporateCurrency": "USD",
+            "location": {
+                "srid": 4326,
+                "x": -122.181862,
+                "y": 47.680626
+            }
+        }
+    }]
+}
