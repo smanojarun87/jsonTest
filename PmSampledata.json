@@ -55,7 +55,7 @@
         "corporateCurrency": "USD",
         "receivesAdminInfoEmails": true,
         "lastModifiedById": "2329408330",
-        "localCity": "Kirkland",
+        "localCity": "",
         "localState": "WA",
         "lastModifiedDate": 1605032375,
         "commonName1": "Costco",
@@ -261,7 +261,7 @@
                 "intxType": "Events",
                 "redemptionDate": null,
                 "tenantId": "1857350380",
-                "orgName": "Costco",
+                "orgName": "",
                 "loops": [
                     "8294051510"
                 ],
@@ -279,7 +279,7 @@
                 "accountStatus": 1,
                 "localZipCode": "98033",
                 "localCity": "Kirkland",
-                "commonName1": "Costco",
+                "commonName1": "",
                 "lastModifiedById": "2329408330",
                 "logo": {
                     "filename": "default.png",
@@ -421,7 +421,7 @@
             "intxType": "Events",
             "redemptionDate": null,
             "reach": 0,
-            "endDate": 1624635720,
+            "endDate": 0,
             "tenantId": "1857350380",
             "orgName": "Costco",
             "recipients": [
@@ -497,7 +497,7 @@
                 "views": 0
             },
             "favorited": false,
-            "body": "Hello ",
+            "body": "",
             "handle": "@costco",
             "header": "Welcome",
             "logo": {
@@ -610,7 +610,7 @@
                 "favorites": 0,
                 "views": 1
             },
-            "body": "Member post 2 ",
+            "body": "",
             "favorited": false,
             "handle": "@costco",
             "header": "member post 2",
