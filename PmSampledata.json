@@ -214,7 +214,7 @@
                     "filename": "default.png",
                     "height": 250,
                     "width": 250,
-                    "contentUrl": "https://primo-img.s3.amazonaws.com/C.png"
+                    "contentUrl": ""
                 },
                 "displayMedia": {
                     "contentUrl": "https://primo-img.s3.amazonaws.com/event.png",
