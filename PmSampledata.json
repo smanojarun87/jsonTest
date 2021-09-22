@@ -68,7 +68,7 @@
             "filename": "default.png",
             "height": 250,
             "width": 250,
-            "contentUrl": "https://primo-img.s3.amazonaws.com/C.png"
+            "contentUrl": ""
         },
         "id": "1857350380",
         "language": "en",
@@ -105,7 +105,7 @@
             "filename": "default.png",
             "height": 250,
             "width": 250,
-            "contentUrl": "https://primo-img.s3.amazonaws.com/B.png"
+            "contentUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/Sachin_Tendulkar_2012_BCCI_0_1200x768.jpeg?lC6XGqE.JRr3cIHB7GByJbiMyCdZw8I2&size=770:433"
         },
         "id": "1334874158",
         "language": "en",
@@ -326,7 +326,7 @@
                     "logo": {
                         "height": 250,
                         "filename": "default.png",
-                        "contentUrl": "https://primo-img.s3.amazonaws.com/C.png",
+                        "contentUrl": "",
                         "width": 250
                     },
                     "name": "Nearby",
@@ -504,7 +504,7 @@
                 "filename": "default.png",
                 "height": 250,
                 "width": 250,
-                "contentUrl": "https://primo-img.s3.amazonaws.com/C.png"
+                "contentUrl": "https://i.guim.co.uk/img/media/5b4590f6b3866163a6065d249b426eed1115555e/0_214_2200_1321/master/2200.jpg?width=620&quality=85&auto=format&fit=max&s=18ccc9002430c265a384cb0a00947aff"
             },
             "displayMedia": {
                 "contentUrl": "https://primo-img.s3.amazonaws.com/post.png",
